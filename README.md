@@ -1,3 +1,7 @@
+
+
+### This code is associated with the paper from Baltz et al., "Orbital frontal cortex updates state-induced value change for decision-making". eLife, 2018. http://dx.doi.org/10.7554/eLife.35988
+
 # arduinoLEDcontrol
 This code allows an arduino to take digital inputs from pins (i.e. TTL pulses from med associates) and drive multiple LEDs based on   * 1. the duration of the input (length of TTL pulse)   * 2. your desired Hz (milliseconds on and milliseconds off) 
 
